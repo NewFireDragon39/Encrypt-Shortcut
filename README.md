@@ -1,5 +1,5 @@
-# Encrypt-Shortcut
-Encrypting now in Shortcuts (don’t worry, it’s not just encoding).
+# Overview
+Encrypting now in Shortcuts with features like Send as Text.
 # Setup
 Download the Key Generator Shortcut to make the key to use for encryption/decryption.
 # License
